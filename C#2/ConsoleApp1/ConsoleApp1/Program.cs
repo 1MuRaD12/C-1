@@ -17,7 +17,7 @@ namespace ConsoleApp1
                 sum = sum + i;
                 n = n / 10;
                 {
-                    Console.WriteLine("sum of digits is {0}", sum);
+                    Console.WriteLine(sum);
                 }
             }
         }
